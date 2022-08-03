@@ -1,0 +1,7 @@
+THIS IS A MAIN FILE
+#include<iostream>
+using namespace std;
+main()
+{
+cout<<"hello";
+}
